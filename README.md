@@ -1,2 +1,2 @@
 # gitbycommandline
- using it
+ for testing
